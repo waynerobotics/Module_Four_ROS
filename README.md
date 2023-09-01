@@ -67,7 +67,7 @@ rospy.Subscriber('/move_robot', Twist, movement_callback)
 rospy.spin()
 ```
 
-## Assignment (Originially written by Lloyd :robot:)
+## Assignment (Originally written by Lloyd :robot:)
 
 1.  Open your terminal:
       - Go to your workspace: cd ~/catkin_ws/src
