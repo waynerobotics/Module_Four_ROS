@@ -20,9 +20,8 @@ You will be directed to the ROS wiki site for this module. Please follow each of
 2. **Nodes:** Individual components that perform specific tasks. They communicate with each other by publishing and subscribing to topics.
    * **Publisher:** A node that wants to share some data and creates a topic and publishes messages to it.
    * **Subscriber:** A node that is interested in the type of data that is being published and can subscribe to the topic. They receive the messages published on the topic and can process the information as needed.
-         
-3. **Messages:**
-4. **Packages:** This is a collection of different software components such as nodes, libraries, config files, etc. that are contained within your workspace.
+     
+3. **Packages:** This is a collection of different software components such as nodes, libraries, config files, etc. that are contained within your workspace.
 
 ## Example:
 
